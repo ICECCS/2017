@@ -6799,3 +6799,42 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+table,td,th {
+	border-collapse: collapse;
+	border: solid 1px;
+}
+
+td,th{
+    padding:8px 25px;
+    text-align: center;
+    width: 200px;
+}
+
+th{
+    background-color: #BBB;
+}
+
+.leftitem{
+    width: 100px;
+}
+
+td.leftitem{
+        background-color: #E0E0E0;
+}
+
+.com td {
+	border-bottom: #e3e3e3 1px dotted;
+	text-align: left;
+	padding: 10px;
+}
+
+.com th {
+	border-bottom: #e3e3e3 1px solid;
+	border-left: #e3e3e3 1px solid;
+	text-align: center;
+	background: #E0E0E0;
+	padding: 10px;
+	font-weight: normal;
+	width: 200px;
+}
