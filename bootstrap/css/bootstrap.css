@@ -6838,13 +6838,13 @@ td
 }
 
 .leftitem-a{
-        background-color: #E0E0E0;
+        background-color: #FFFFFF;
 		text-align: left;
 }
 
 .rightitem{
         width: 500px;
-		background-color: #E0E0E0;
+		background-color: #FFFFFF;
 		text-align: left;
 
 
@@ -6854,6 +6854,7 @@ td
 		background-color: #FFFFFF;
 		text-align: left;
 }
+
 
 
 
