@@ -6819,9 +6819,43 @@ th{
     width: 100px;
 }
 
-td.leftitem{
+td
+.haiiro1{
         background-color: #E0E0E0;
 }
+
+.haiiro{
+        background-color: #E0E0E0;
+}
+
+.midori{
+        background-color: #C4D79B;
+		text-align: left;
+}
+
+.leftitem{
+        background-color: #E0E0E0;
+}
+
+.leftitem-a{
+        background-color: #E0E0E0;
+		text-align: left;
+}
+
+.rightitem{
+        width: 500px;
+		background-color: #E0E0E0;
+		text-align: left;
+
+
+}
+.rightitem-white{
+        width: 500px;
+		background-color: #FFFFFF;
+		text-align: left;
+}
+
+
 
 .com td {
 	border-bottom: #e3e3e3 1px dotted;
@@ -6838,3 +6872,4 @@ td.leftitem{
 	font-weight: normal;
 	width: 200px;
 }
+
